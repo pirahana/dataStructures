@@ -1,0 +1,1 @@
+Practising the core Javascript data structures in both es5 and es6 ways.
